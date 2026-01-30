@@ -7,11 +7,11 @@ Each blog focuses on core computer science and web development concepts, explain
 
 ##  Blogs List
 
-1. **How DNS Resolution Works**  
-  https://rupeshx.hashnode.dev/how-dns-resolution-works-dig
+1. **Emmet for HTML: A Beginner’s Guide to Writing Faster Markup**  
+  https://rupeshx.hashnode.dev/emmet-for-html
 
-2. **DNS Record Types Explained**  
-  https://rupeshx.hashnode.dev/dns-records
+2. **CSS Selectors 101: Targeting Elements with Precision**  
+https://rupeshx.hashnode.dev/css-selectors-101
 
 3. **Getting Started with cURL**  
    https://rupeshx.hashnode.dev/getting-started-with-curl
@@ -40,11 +40,13 @@ https://rupeshx.hashnode.dev/tcp-working-3-way-handshake-and-reliable-communicat
 11. **Understanding HTML Tags and Elements**  
   https://rupeshx.hashnode.dev/html-basics
 
-12. **Emmet for HTML: A Beginner’s Guide to Writing Faster Markup**  
-  https://rupeshx.hashnode.dev/emmet-for-html
+12. **How DNS Resolution Works**  
+  https://rupeshx.hashnode.dev/how-dns-resolution-works-dig
 
-13. **CSS Selectors 101: Targeting Elements with Precision**  
-https://rupeshx.hashnode.dev/css-selectors-101
+13. **DNS Record Types Explained**  
+  https://rupeshx.hashnode.dev/dns-records
+
+
 
 ---
 
